@@ -22,7 +22,7 @@ url: 'protocol://domain'
 
 author: your_full_name                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/kaeruchan.png   # support internet resources
 
 github:
   username: kaeruchan             # change to your github username
@@ -31,7 +31,7 @@ twitter:
   username: STGer4emiya            # change to your twitter username
 
 social:
-  name: Tianji Shen                  # it will shows as the copyright owner in Footer
+  name: kaeruchan                  # it will shows as the copyright owner in Footer
   email: shin@ochiailab.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
