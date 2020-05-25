@@ -8,8 +8,6 @@ title: About/ 关于
 # MIT License
 ---
 
-# > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
-
 This page is just personal station.
 
 To keep updating some interesting things.
