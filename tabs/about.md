@@ -1,5 +1,5 @@
 ---
-title: About/ 关于
+title: About/ 关于博主
 
 # The About page
 # v2.0
