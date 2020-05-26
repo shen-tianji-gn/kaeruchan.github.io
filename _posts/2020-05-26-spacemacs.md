@@ -83,9 +83,12 @@ $ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 打开iTerm2后，直接复制粘贴下面这段代码即可：
 
 ```bash
-$ git clone https://github.com/evacchi/tabbar-layer ~/.emacs.d/private/tabbar
-$ rm -rf ~/.spacemacs
-$ git clone https://github.com/kaeruchan/dotspacemacs/.spacemacs ~/.spacemacs
+$ git clone https://github.com/evacchi/tabbar-layer ~/.emacs.d/private/tabbar # copy tabber to local
+$ rm -rf ~/.spacemacs # delete origin spacemacs file
+$ git clone https://github.com/kaeruchan/dotspacemacs ~/dotspacemacs # copy file to home
+$ mv ~/dotspacemacs/.spacemacs ~/.spacemacs # move file
+$ rm -rf ~/dotspacemacs #remove directory
+
 ```
 
 然后重启Emacs即可。
