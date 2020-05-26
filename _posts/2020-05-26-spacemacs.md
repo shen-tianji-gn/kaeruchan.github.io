@@ -84,6 +84,7 @@ $ git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 
 ```bash
 $ git clone https://github.com/evacchi/tabbar-layer ~/.emacs.d/private/tabbar
+$ rm -rf ~/.spacemacs
 $ git clone https://github.com/kaeruchan/dotspacemacs/dotspacemacs ~/.spacemacs
 ```
 
