@@ -766,7 +766,7 @@ ax.set_xticklabels(['5%', '15%', '20%', '25%'])
 plt.show()
 ```
 
-![example 19](hhttps://image.jiqizhixin.com/uploads/editor/35390e87-bde2-44ee-a2cb-fa0c192a2e52/640.png)
+![example 19](https://image.jiqizhixin.com/uploads/editor/35390e87-bde2-44ee-a2cb-fa0c192a2e52/640.png)
 
 ---
 
