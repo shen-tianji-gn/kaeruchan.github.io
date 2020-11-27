@@ -74,7 +74,7 @@ plt.show()
 
 example:
 
-![example 1](https://pic4.zhimg.com/80/v2-864621ec5ec1962ee1c63799ea4c58f3_720w.jpg)
+![example 1](https://image.jiqizhixin.com/uploads/editor/e15363f7-730a-4879-b031-d8db14361ab0/640.png)
 
 ---
 ## 2. 带边界的气泡图
@@ -130,7 +130,7 @@ plt.show()
 example:
 
 
-![example 2](https://pic4.zhimg.com/80/v2-298b05267d66be9bd3b87345b9acb7c1_720w.jpg)
+![example 2](https://image.jiqizhixin.com/uploads/editor/2fe43c45-8605-4c7a-946d-e38ebbd1454b/640.png)
 
 ----
 ## 3. 带线性回归最佳拟合线的散点图
@@ -155,7 +155,7 @@ plt.title("Scatterplot with line of best fit grouped by number of cylinders", fo
 ```
 
 example:
-![example 3](https://pic2.zhimg.com/80/v2-2a2cefbd3f0e8db15282fe2cb7b9c4d3_720w.jpg)
+![example 3](https://image.jiqizhixin.com/uploads/editor/b7f195d3-b335-4fea-ade4-fc05250d6ebf/640.png)
 
 
 ---
@@ -180,7 +180,7 @@ plt.show()
 
 example:
 
-![example 4](https://pic1.zhimg.com/80/v2-cb863af90deaa07a5e055b16d105d81d_720w.jpg)
+![example 4](https://image.jiqizhixin.com/uploads/editor/52b04262-69fa-4d6f-b0f1-c7014c2dc09a/640.png)
 
 ---
 
@@ -203,7 +203,7 @@ plt.show()
 ```
 
 example:
-![example 5](https://pic4.zhimg.com/80/v2-798c50590559de1a24302058da4b1b00_720w.jpg)
+![example 5](https://image.jiqizhixin.com/uploads/editor/40001c45-fd32-49dc-a39f-71f1aa71cd5d/640.png)
 
 ---
 
@@ -248,7 +248,7 @@ plt.show()
 ```
 
 example:
-![example 6](https://picb.zhimg.com/80/v2-0cbd390c3e013bb53e6d27a95602ed5a_720w.jpg)
+![example 6](https://image.jiqizhixin.com/uploads/editor/c61a3dc8-a410-4953-95f7-137b839ff2aa/640.png)
 
 ---
 ## 7.边缘箱形图
@@ -293,7 +293,7 @@ plt.show()
 ```
 
 example:
-![example 7](https://pic1.zhimg.com/80/v2-fdd8de4a6905133dde49be6a1fc2a13e_720w.jpg)
+![example 7](https://image.jiqizhixin.com/uploads/editor/4b662ac8-ab1b-4254-9b0e-f4aa0df199af/640.png)
 
 ---
 ## 8. 相关图
@@ -315,7 +315,7 @@ plt.show()
 ```
 
 example:
-![example 8](https://picb.zhimg.com/80/v2-599e907bf2e3efb096ee6acecacd4458_720w.jpg)
+![example 8](https://image.jiqizhixin.com/uploads/editor/32548a5b-9438-4296-9a0b-d67cd0227b54/640.png)
 
 ---
 
@@ -334,7 +334,7 @@ plt.show()
 ```
 
 example 1:
-![example9-1](https://pic4.zhimg.com/80/v2-c55c276a8dab28529336c3cc6c292f70_720w.jpg)
+![example9-1](https://image.jiqizhixin.com/uploads/editor/5a3bdc35-ac8a-4a1c-928e-d81277d3d59c/640.png)
 
 
 ```python
@@ -348,7 +348,7 @@ plt.show()
 ```
 
 example 2:
-![example9-2](https://picb.zhimg.com/80/v2-78045c848370a742b65fb2e0e30b9e4b_720w.jpg)
+![example9-2](https://image.jiqizhixin.com/uploads/editor/5230148d-8b06-4376-81de-88c6e21d06e8/640.png)
 
 ---
 
@@ -380,7 +380,7 @@ plt.show()
 ```
 
 example:
-![example 10](https://pic4.zhimg.com/80/v2-b05c1a7bbdbe6f9dc6bd6f5d1f5bade5_720w.jpg)
+![example 10](https://image.jiqizhixin.com/uploads/editor/d1c5a931-2111-4c8e-9e90-72d7771302a3/640.png)
 
 ---
 
@@ -414,7 +414,7 @@ plt.show()
 ```
 
 example:
-![example 11](https://pic4.zhimg.com/80/v2-34f9c76af9a285304324128e643a20e2_720w.jpg)
+![example 11](https://image.jiqizhixin.com/uploads/editor/94dad59f-6d57-4522-86cc-46a5a39f9f51/640.png)
 
 ---
 
@@ -453,7 +453,7 @@ plt.xlim(-2.5, 2.5)
 plt.show()
 ```
 
-![example 12](https://pic3.zhimg.com/80/v2-d517ff791a64e7309cd1828a9006ba82_720w.jpg)
+![example 12](https://image.jiqizhixin.com/uploads/editor/8928d9c2-908c-475e-bd83-f734f68b866f/640.png)
 
 ---
 
@@ -503,7 +503,7 @@ plt.show()
 ```
 
 example:
-![example 13](https://pic2.zhimg.com/80/v2-74c929e7ef37e5cd665c2a8472e7b012_720w.jpg)
+![example 13](https://image.jiqizhixin.com/uploads/editor/60bfe5f4-258a-4a9b-837b-a20236896fdb/640.png)
 
 ---
 
@@ -546,7 +546,7 @@ plt.show()
 ```
 
 example:
-![example 14](https://pic2.zhimg.com/80/v2-7cac223500169cab3cd463a1e22c1d00_720w.jpg)
+![example 14](https://image.jiqizhixin.com/uploads/editor/17ed67dc-7b59-4dcf-9911-1926678bbffd/640.png)
 
 ---
 
@@ -588,7 +588,7 @@ plt.show()
 
 example:
 
-![example 15](https://pic2.zhimg.com/80/v2-fb1b035df1e9b5da12600e73850decd4_720w.jpg)
+![example 15](https://image.jiqizhixin.com/uploads/editor/e0e02f86-f2ca-4311-a0c5-82ffafd30c50/640.png)
 
 ---
 
@@ -623,7 +623,7 @@ plt.show()
 ```
 
 example:
-![example 16](https://pic4.zhimg.com/80/v2-67d44c7534662c357705959d45f51ea3_720w.jpg)
+![example 16](https://image.jiqizhixin.com/uploads/editor/ed8902c0-e1a8-4bf1-9821-32828c8240ea/640.png)
 
 ---
 
@@ -653,7 +653,7 @@ plt.show()
 ```
 
 example:
-![example 17](https://picb.zhimg.com/80/v2-1a7901dde187cecd52517b12eb6dfe43_720w.jpg)
+![example 17](https://image.jiqizhixin.com/uploads/editor/2a3c6537-2a44-4e71-90a3-27734486da56/640.png)
 
 ---
 
@@ -715,7 +715,7 @@ plt.show()
 
 example:
 
-![example 18](https://pic1.zhimg.com/80/v2-f273a9d55fde227b8775e4c7a38b0d79_720w.jpg)
+![example 18](https://image.jiqizhixin.com/uploads/editor/9517d8f0-2253-410b-8e07-22ff8b140224/640.png)
 
 ---
 
@@ -766,7 +766,7 @@ ax.set_xticklabels(['5%', '15%', '20%', '25%'])
 plt.show()
 ```
 
-![example 19](https://pic1.zhimg.com/80/v2-a3a3e70c4af4a83ecef64e0d77d1ab80_720w.jpg)
+![example 19](hhttps://image.jiqizhixin.com/uploads/editor/35390e87-bde2-44ee-a2cb-fa0c192a2e52/640.png)
 
 ---
 
@@ -802,7 +802,7 @@ plt.show()
 ```
 
 example:
-![example 20](https://picb.zhimg.com/80/v2-f9787116538ab876cca43691772e4155_720w.jpg)
+![example 20](https://image.jiqizhixin.com/uploads/editor/da2671d5-6b12-4020-a1af-99275b5570e2/640.png)
 
 ---
 
@@ -838,7 +838,7 @@ plt.show()
 ```
 
 example:
-![example 21](https://pic4.zhimg.com/80/v2-52b348b39f4b93fe6c745eced9325849_720w.jpg)
+![example 21](https://image.jiqizhixin.com/uploads/editor/6a5d3b38-231b-417d-b34b-1b298879c989/640.png)
 
 ---
 ## 22. 密度图
@@ -864,7 +864,7 @@ plt.legend()
 ```
 
 example:
-![example 22](https://pic3.zhimg.com/80/v2-2cafff10da3c2fe1c6178747bf09c8da_720w.jpg)
+![example 22](https://image.jiqizhixin.com/uploads/editor/99e240b7-d937-4f1e-baa6-11cb2d9022e3/640.png)
 
 ---
 
@@ -891,7 +891,7 @@ plt.show()
 ```
 
 example:
-![example 23](https://pic1.zhimg.com/80/v2-1147cb8971bf8877c28afc883d057e1d_720w.jpg)
+![example 23](https://image.jiqizhixin.com/uploads/editor/0d0eada8-eeef-4f6f-873e-e4bc6a540ba7/640.png)
 
 ---
 
@@ -918,7 +918,7 @@ plt.show()
 ```
 
 example:
-![example 24](https://picb.zhimg.com/80/v2-37fdf5871611d6e4a3f6fda5518a1f44_720w.jpg)
+![example 24](https://image.jiqizhixin.com/uploads/editor/f538b9db-c2c1-448c-a7dd-e2f9b73c608a/640.png)
 
 ---
 
@@ -975,4 +975,43 @@ plt.show()
 
 example:
 
-![example 25](https://pic2.zhimg.com/80/v2-4b6400b608336852e04f1beaaaad449b_720w.jpg)
+![example 25](https://image.jiqizhixin.com/uploads/editor/fc565903-9cbf-4cc7-bc81-a615f60cf7e7/640.png)
+
+---
+
+## 26.箱形图
+
+箱形图是一种可视化分布的好方法，记住中位数、第25个第45个四分位数和异常值。 但是，您需要注意解释可能会扭曲该组中包含的点数的框的大小。 因此，手动提供每个框中的观察数量可以帮助克服这个缺点。
+
+例如，左边的前两个框具有相同大小的框，即使它们的值分别是5和47。 因此，写入该组中的观察数量是必要的。
+
+```python
+# Import Data
+df = pd.read_csv("https://github.com/selva86/datasets/raw/master/mpg_ggplot2.csv")
+
+# Draw Plot
+plt.figure(figsize=(13,10), dpi= 80)
+sns.boxplot(x='class', y='hwy', data=df, notch=False)
+
+# Add N Obs inside boxplot (optional)
+def add_n_obs(df,group_col,y):
+    medians_dict = {grp[0]:grp[1][y].median() for grp in df.groupby(group_col)}
+    xticklabels = [x.get_text() for x in plt.gca().get_xticklabels()]
+    n_obs = df.groupby(group_col)[y].size().values
+    for (x, xticklabel), n_ob in zip(enumerate(xticklabels), n_obs):
+        plt.text(x, medians_dict[xticklabel]*1.01, "#obs : "+str(n_ob), horizontalalignment='center', fontdict={'size':14}, color='white')
+
+add_n_obs(df,group_col='class',y='hwy')    
+
+# Decoration
+
+plt.title('Box Plot of Highway Mileage by Vehicle Class', fontsize=22)
+plt.ylim(10, 40)
+plt.show()
+```
+
+example:
+
+![example 26](https://image.jiqizhixin.com/uploads/editor/bd4615a2-242f-4e9a-a147-e4cf0da8edf7/640.png)
+
+
