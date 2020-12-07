@@ -820,7 +820,7 @@ plt.show()
 ```
 
 
-![example 20](https://image.jiqizhixin.com/uploads/editor/da2671d5-6b12-4020-a1af-99275b5570e2/640.png)
+![example 20](https://imgur.com/5o6s3Cv.jpg)
 
 ---
 
@@ -856,7 +856,7 @@ plt.show()
 ```
 
 
-![example 21](https://image.jiqizhixin.com/uploads/editor/6a5d3b38-231b-417d-b34b-1b298879c989/640.png)
+![example 21](https://imgur.com/F1k1RzI.jpg)
 
 ---
 ## 22. 密度图
@@ -882,7 +882,7 @@ plt.legend()
 ```
 
 
-![example 22](https://image.jiqizhixin.com/uploads/editor/99e240b7-d937-4f1e-baa6-11cb2d9022e3/640.png)
+![example 22](https://imgur.com/sxSett4.jpg)
 
 ---
 
@@ -909,7 +909,7 @@ plt.show()
 ```
 
 
-![example 23](https://image.jiqizhixin.com/uploads/editor/0d0eada8-eeef-4f6f-873e-e4bc6a540ba7/640.png)
+![example 23](https://imgur.com/Gantkt3.jpg)
 
 ---
 
@@ -936,7 +936,7 @@ plt.show()
 ```
 
 
-![example 24](https://image.jiqizhixin.com/uploads/editor/f538b9db-c2c1-448c-a7dd-e2f9b73c608a/640.png)
+![example 24](https://imgur.com/M6Ie8rG.jpg)
 
 ---
 
@@ -993,7 +993,7 @@ plt.show()
 
 
 
-![example 25](https://image.jiqizhixin.com/uploads/editor/fc565903-9cbf-4cc7-bc81-a615f60cf7e7/640.png)
+![example 25](https://imgur.com/plDssC5.jpg)
 
 ---
 
@@ -1032,7 +1032,7 @@ plt.show()
 
 
 
-![example 26](https://image.jiqizhixin.com/uploads/editor/bd4615a2-242f-4e9a-a147-e4cf0da8edf7/640.png)
+![example 26](https://imgur.com/PBa3Ail.jpg)
 
 
 ---
@@ -1065,7 +1065,7 @@ plt.show()
 
 
 
-![example 27](https://image.jiqizhixin.com/uploads/editor/53effc8d-2b6b-4850-a200-6a12b06527f6/640.png)
+![example 27](https://imgur.com/wNNELFy.jpg)
 
 ---
 
@@ -1092,7 +1092,7 @@ plt.show()
 
 
 
-![example 28](https://image.jiqizhixin.com/uploads/editor/f208c54c-6529-47e0-8815-b803b2c207bb/640.png)
+![example 28](https://imgur.com/4K3u3sH.jpg)
 
 ---
 
@@ -1128,7 +1128,7 @@ plt.show()
 
 
 
-![example 29](https://image.jiqizhixin.com/uploads/editor/1cf43491-2053-42ea-bcaa-aa374f60f4c9/640.png)
+![example 29](https://imgur.com/w95m0ob.jpg)
 
 ---
 
@@ -1152,7 +1152,7 @@ fig.suptitle('sf')
 plt.show()
 ```
 
-![example 30-1](https://image.jiqizhixin.com/uploads/editor/3923cb03-3498-4ee5-931a-af7b6136369c/640.png)
+![example 30-1](https://imgur.com/7xiAx4l.jpg)
 
 ```python
 # Load Dataset
@@ -1166,7 +1166,7 @@ sns.catplot(x="age", y="embark_town",
             kind="violin", dodge=True, cut=0, bw=.2)
 ```
 
-![example 30-2](https://image.jiqizhixin.com/uploads/editor/6ae64dba-f5a5-4e9b-aee5-8a35b1d39c59/640.png)
+![example 30-2](https://imgur.com/vM5kpgr.jpg)
 
 ---
 # 五、组成
@@ -1214,7 +1214,7 @@ fig = plt.figure(
 
 
 
-![example 31-1](https://image.jiqizhixin.com/uploads/editor/10fc0715-de7e-4db2-a3c0-704adb5ba682/640.png)
+![example 31-1](https://imgur.com/rHZ4tQF.jpg)
 
 
 ```python
@@ -1273,7 +1273,7 @@ fig = plt.figure(
 ```
 
 
-![example 31-2](https://image.jiqizhixin.com/uploads/editor/b332c074-f6a5-40c1-b48d-9fc288d27566/640.png)
+![example 31-2](https://imgur.com/wLUBG6t.jpg)
 
 ---
 
@@ -1301,7 +1301,7 @@ plt.show()
 
 
 
-![example 32-1](https://image.jiqizhixin.com/uploads/editor/4ac86d1d-424f-4d29-a401-3f7e2e5245a0/640.png)
+![example 32-1](https://imgur.com/Nk7RCIH.jpg)
 
 ```python
 # Import
@@ -1334,7 +1334,7 @@ plt.setp(autotexts, size=10, weight=700)
 ax.set_title("Class of Vehicles: Pie Chart")
 plt.show()
 ```
-![example 32-2](https://image.jiqizhixin.com/uploads/editor/3730fd4e-da10-4371-98f2-91780a3d79e8/640.png)
+![example 32-2](https://imgur.com/o0eNdHL.jpg)
 
 ---
 ## 33.树形图
@@ -1372,7 +1372,7 @@ plt.show()
 
 
 
-![example 33](https://image.jiqizhixin.com/uploads/editor/97e94409-f5a4-404f-97e6-fc27131e097d/640.png)
+![example 33](https://imgur.com/HEoIxnE.jpg)
 
 ---
 
@@ -1415,7 +1415,7 @@ plt.show()
 
 
 
-![example 34](https://image.jiqizhixin.com/uploads/editor/76a24ec9-2b60-4d3a-8228-26769ef7188a/640.png)
+![example 34](https://imgur.com/OVX4NUk.jpg)
 
 ---
 
@@ -1458,7 +1458,7 @@ plt.show()
 
 
 
-![example 35](https://image.jiqizhixin.com/uploads/editor/99e34455-6524-4ed5-bceb-fed1e9808aeb/640.png)
+![example 35](https://imgur.com/Br2h91R.jpg)
 
 ---
 
@@ -1510,7 +1510,7 @@ plt.show()
 
 
 
-![example 36](https://image.jiqizhixin.com/uploads/editor/fd6fab5b-e203-4dae-9a6f-d8b7411d9d37/640.png)
+![example 36](https://imgur.com/NJQVbDK.jpg)
 
 ---
 
@@ -1554,7 +1554,7 @@ plt.show()
 
 
 
-![example 37](https://image.jiqizhixin.com/uploads/editor/5ba98a36-e781-401e-8f96-89c9969c4554/640.png)
+![example 37](https://imgur.com/gXCnwtO.jpg)
 
 ---
 
@@ -1595,7 +1595,7 @@ plt.show()
 
 
 
-![example 38](https://image.jiqizhixin.com/uploads/editor/b3c614ec-6f36-4772-ae08-a7b1fd47c306/640.png)
+![example 38](https://imgur.com/DrINljY.jpg)
 
 ---
 
@@ -1623,7 +1623,7 @@ plt.show()
 
 
 
-![example 39](https://image.jiqizhixin.com/uploads/editor/1ef8c4ad-23f6-4553-897a-8f607fa4ab6d/640.png)
+![example 39](https://imgur.com/3k9kG88.jpg)
 
 ---
 
@@ -1673,7 +1673,7 @@ plt.xlim(-2, 80)
 plt.show()
 ```
 
-![example 40](https://image.jiqizhixin.com/uploads/editor/804b5c62-a181-4057-a6ac-6e8f211cc05c/640.png)
+![example 40](https://imgur.com/AvSaoqA.jpg)
 
 ---
 
@@ -1717,7 +1717,7 @@ plt.show()
 
 
 
-![example 41](https://image.jiqizhixin.com/uploads/editor/6bfb425e-2359-4b2e-9067-17643d6fa7cc/640.png)
+![example 41](https://imgur.com/ivsrCUi.jpg)
 
 ---
 
@@ -1769,7 +1769,7 @@ plt.show()
 
 
 
-![example 42-1](https://image.jiqizhixin.com/uploads/editor/207aa187-21fd-4c1f-a832-065ce93c7c62/640.png)
+![example 42-1](https://imgur.com/TZu05U1.jpg)
 
 ```python
 # "Data Source: https://www.kaggle.com/olistbr/brazilian-ecommerce#olist_orders_dataset.csv"
@@ -1812,7 +1812,7 @@ for y in range(5, 10, 1):
 plt.show()
 ```
 
-![example 42-2](https://image.jiqizhixin.com/uploads/editor/d8e2cf7e-c1cb-49e5-b6ee-ea75691681f0/640.png)
+![example 42-2](https://imgur.com/YC1zSVK.jpg)
 
 ---
 
@@ -1866,7 +1866,7 @@ plt.gca().spines["left"].set_alpha(.3)
 plt.show()
 ```
 
-![example 43](https://image.jiqizhixin.com/uploads/editor/adcd1700-6b0b-45da-bfff-9c5af43a72b4/640.png)
+![example 43](https://imgur.com/cB5TNoA.jpg)
 
 ---
 
@@ -1912,7 +1912,7 @@ plt.gca().spines["left"].set_alpha(.3)
 plt.show()
 ```
 
-![example 44](https://image.jiqizhixin.com/uploads/editor/cc5553fd-66d2-4cfb-ab78-23d51bd76a52/640.png)
+![example 44](https://imgur.com/h6sTFiB.jpg)
 
 ---
 
@@ -1941,7 +1941,7 @@ calmap.calendarplot(df['2014']['VIX.Close'], fig_kws={'figsize': (16,10)}, yearl
 plt.show()
 ```
 
-![example 45](https://image.jiqizhixin.com/uploads/editor/c6ba00c3-20c3-46d4-838b-80c0313bf75e/640.png)
+![example 45](https://imgur.com/6F4uhj1.jpg)
 
 ---
 
@@ -1985,7 +1985,7 @@ plt.gca().spines["left"].set_alpha(0.5)
 plt.show()
 ```
 
-![example 46](https://image.jiqizhixin.com/uploads/editor/c06d44d4-0699-4dfc-ac0e-59f8d82bb87c/640.png)
+![example 46](https://imgur.com/2Jw02ep.jpg)
 
 ---
 
@@ -2012,7 +2012,7 @@ plt.xticks(fontsize=12)
 plt.show()
 ```
 
-![example 47](https://image.jiqizhixin.com/uploads/editor/3ca1f16b-903e-4408-a063-4a9c9a151267/640.png)
+![example 47](https://imgur.com/9qesYU0.jpg)
 
 ---
 
@@ -2060,7 +2060,7 @@ plt.title('Agglomerative Clustering of USArrests (5 Groups)', fontsize=22)
 plt.show()
 ```
 
-![example 48](https://image.jiqizhixin.com/uploads/editor/67c40809-0a0a-4eaf-99e8-0e7ca78a66ac/640.png)
+![example 48](https://imgur.com/Q7lwaUl.jpg)
 
 ---
 
@@ -2095,7 +2095,7 @@ plt.yticks(fontsize=12)
 plt.show()
 ```
 
-![example 49](https://image.jiqizhixin.com/uploads/editor/baa4011a-5346-4ad4-96e7-95aa7077e16c/640.png)
+![example 49](https://imgur.com/iKqovAD.jpg)
 
 ---
 
@@ -2127,4 +2127,4 @@ plt.yticks(fontsize=12)
 plt.show()
 ```
 
-![example 50](https://image.jiqizhixin.com/uploads/editor/da2e0ac3-e400-4dd3-b505-929d21dfccb4/640.png)
+![example 50](https://imgur.com/oLyoTfH.jpg)
