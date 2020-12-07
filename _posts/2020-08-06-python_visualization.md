@@ -392,7 +392,7 @@ plt.show()
 ```
 
 
-![example 10](https://image.jiqizhixin.com/uploads/editor/d1c5a931-2111-4c8e-9e90-72d7771302a3/640.png)
+![example 10](https://imgur.com/Xq9vDKy.jpg)
 
 ---
 
@@ -426,7 +426,7 @@ plt.show()
 ```
 
 
-![example 11](https://image.jiqizhixin.com/uploads/editor/94dad59f-6d57-4522-86cc-46a5a39f9f51/640.png)
+![example 11](https://imgur.com/IgvJ6eq.jpg)
 
 ---
 
@@ -465,7 +465,7 @@ plt.xlim(-2.5, 2.5)
 plt.show()
 ```
 
-![example 12](https://image.jiqizhixin.com/uploads/editor/8928d9c2-908c-475e-bd83-f734f68b866f/640.png)
+![example 12](https://imgur.com/tAACALx.jpg)
 
 ---
 
@@ -515,7 +515,7 @@ plt.show()
 ```
 
 
-![example 13](https://image.jiqizhixin.com/uploads/editor/60bfe5f4-258a-4a9b-837b-a20236896fdb/640.png)
+![example 13](https://imgur.com/TtTwrjN.jpg)
 
 ---
 
@@ -558,7 +558,7 @@ plt.show()
 ```
 
 
-![example 14](https://image.jiqizhixin.com/uploads/editor/17ed67dc-7b59-4dcf-9911-1926678bbffd/640.png)
+![example 14](https://imgur.com/wiHn2z8.jpg)
 
 ---
 # 三、排序
@@ -603,7 +603,7 @@ plt.show()
 
 
 
-![example 15](https://image.jiqizhixin.com/uploads/editor/e0e02f86-f2ca-4311-a0c5-82ffafd30c50/640.png)
+![example 15](https://imgur.com/Jxo9j4i.jpg)
 
 ---
 
@@ -638,7 +638,7 @@ plt.show()
 ```
 
 
-![example 16](https://image.jiqizhixin.com/uploads/editor/ed8902c0-e1a8-4bf1-9821-32828c8240ea/640.png)
+![example 16](https://imgur.com/4wDyfNw.jpg)
 
 ---
 
@@ -668,7 +668,7 @@ plt.show()
 ```
 
 
-![example 17](https://image.jiqizhixin.com/uploads/editor/2a3c6537-2a44-4e71-90a3-27734486da56/640.png)
+![example 17](https://imgur.com/qGFB8cr.jpg)
 
 ---
 
@@ -730,7 +730,7 @@ plt.show()
 
 
 
-![example 18](https://image.jiqizhixin.com/uploads/editor/9517d8f0-2253-410b-8e07-22ff8b140224/640.png)
+![example 18](https://imgur.com/2Et5VJN.jpg)
 
 ---
 
@@ -781,7 +781,7 @@ ax.set_xticklabels(['5%', '15%', '20%', '25%'])
 plt.show()
 ```
 
-![example 19](https://image.jiqizhixin.com/uploads/editor/35390e87-bde2-44ee-a2cb-fa0c192a2e52/640.png)
+![example 19](https://imgur.com/YidRkCp.jpg)
 
 ---
 # 四、分布
