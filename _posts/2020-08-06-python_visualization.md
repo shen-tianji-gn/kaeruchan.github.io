@@ -87,7 +87,7 @@ plt.show()
 ```
 
 
-![example 1](https://image.jiqizhixin.com/uploads/editor/e15363f7-730a-4879-b031-d8db14361ab0/640.png)
+![example 1](https://i.imgur.com/mjTogXQ.jpg)
 
 ---
 ## 2. 带边界的气泡图
@@ -142,7 +142,7 @@ plt.show()
 
 
 
-![example 2](https://image.jiqizhixin.com/uploads/editor/2fe43c45-8605-4c7a-946d-e38ebbd1454b/640.png)
+![example 2](https://imgur.com/aEocqGh.jpg)
 
 ----
 ## 3. 带线性回归最佳拟合线的散点图
@@ -166,7 +166,7 @@ gridobj.set(xlim=(0.5, 7.5), ylim=(0, 50))
 plt.title("Scatterplot with line of best fit grouped by number of cylinders", fontsize=20)
 ```
 
-![example 3](https://image.jiqizhixin.com/uploads/editor/b7f195d3-b335-4fea-ade4-fc05250d6ebf/640.png)
+![example 3](https://imgur.com/Hx9BK18.jpg)
 
 
 ---
@@ -189,7 +189,7 @@ plt.title('Use jittered plots to avoid overlapping of points', fontsize=22)
 plt.show()
 ```
 
-![example 4](https://image.jiqizhixin.com/uploads/editor/52b04262-69fa-4d6f-b0f1-c7014c2dc09a/640.png)
+![example 4](https://imgur.com/Ks2uEvq.jpg)
 
 ---
 
@@ -212,7 +212,7 @@ plt.show()
 ```
 
 
-![example 5](https://image.jiqizhixin.com/uploads/editor/40001c45-fd32-49dc-a39f-71f1aa71cd5d/640.png)
+![example 5](https://imgur.com/502IWi2.jpg)
 
 ---
 
@@ -257,7 +257,7 @@ plt.show()
 ```
 
 
-![example 6](https://image.jiqizhixin.com/uploads/editor/c61a3dc8-a410-4953-95f7-137b839ff2aa/640.png)
+![example 6](https://imgur.com/PoBocQt.jpg)
 
 ---
 ## 7.边缘箱形图
@@ -302,7 +302,7 @@ plt.show()
 ```
 
 
-![example 7](https://image.jiqizhixin.com/uploads/editor/4b662ac8-ab1b-4254-9b0e-f4aa0df199af/640.png)
+![example 7](https://imgur.com/JbOQbHa.jpg)
 
 ---
 ## 8. 相关图
@@ -324,7 +324,7 @@ plt.show()
 ```
 
 
-![example 8](https://image.jiqizhixin.com/uploads/editor/32548a5b-9438-4296-9a0b-d67cd0227b54/640.png)
+![example 8](https://imgur.com/NrW8Cng.jpg)
 
 ---
 
@@ -343,7 +343,7 @@ plt.show()
 ```
 
 example 1:
-![example9-1](https://image.jiqizhixin.com/uploads/editor/5a3bdc35-ac8a-4a1c-928e-d81277d3d59c/640.png)
+![example9-1](https://imgur.com/d3RGozB.jpg)
 
 
 ```python
@@ -357,7 +357,7 @@ plt.show()
 ```
 
 example 2:
-![example9-2](https://image.jiqizhixin.com/uploads/editor/5230148d-8b06-4376-81de-88c6e21d06e8/640.png)
+![example9-2](https://imgur.com/Fc1I41Q.jpg)
 
 ---
 # 二、偏差 
