@@ -1,7 +1,7 @@
 ---
 title: 浅谈博弈论（Game theory）
 author: Kaeruchan
-date: 2020-12-05 16:44:00 +0900
+date: 2020-12-07 09:44:00 +0900
 categories: [Security, Game theory]
 tags: [Game theory]
 
