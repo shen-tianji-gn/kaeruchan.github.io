@@ -172,3 +172,10 @@ tags: [Game theory]
 |剪刀| -1 |  0 |  1 |
 | 布 |  1 |  -1 |  0 |
 
+在上述矩阵中，`1`代表赢，`-1`代表输，`0`代表平手。
+
+---
+
+## 决策树（decision tree）
+
+![Decision tree](./asset/img/decision_tree.jpg)
