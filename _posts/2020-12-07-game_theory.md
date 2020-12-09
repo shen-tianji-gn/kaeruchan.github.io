@@ -178,7 +178,7 @@ math: true
 
 ## 决策树（decision tree）
 
-![Decision tree](https://imgur.com/BgsBL5O.jpg)
+![Decision tree](/assets/img/posts/decision_tree.jpg)
 
 同样是以石头剪刀布为例，表示一个简单的决策树。
 两个博弈者分别为1和2，可选策略都有（`石头`，`剪刀`，`布`）。
