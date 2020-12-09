@@ -178,4 +178,7 @@ tags: [Game theory]
 
 ## 决策树（decision tree）
 
-![Decision tree](./asset/img/decision_tree.jpg)
+![Decision tree](/assets/img/decision_tree.jpg)
+
+同样是以石头剪刀布为例，表示一个简单的决策树。
+两个博弈者分别为1和2，可选策略都有
