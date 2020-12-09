@@ -18,9 +18,9 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://kaeruchan.github.io'
 
-author: your_full_name                  # change to your full name
+author: kaeruchan                  # change to your full name
 
 avatar: /assets/img/sample/kaeruchan.png   # support internet resources
 
