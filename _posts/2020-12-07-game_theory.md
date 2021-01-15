@@ -574,4 +574,4 @@ E 就会投票支持（否则的话，等到由 D 来提方案，E 啥也拿不�
 
 
 
-[^1]: J. Nash, "Non-cooperative games", *The Annals of Mathematics*, vol. 54, no. 2, pp. 286-295, Oct. 1950.
+[^1]: J. Nash, "Non-cooperative games", *The Annuals of Mathematics*, vol. 54, no. 2, pp. 286-295, Oct. 1950.
