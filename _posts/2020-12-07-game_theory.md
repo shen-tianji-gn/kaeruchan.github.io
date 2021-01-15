@@ -296,54 +296,56 @@ math: true
 
 对这个博弈过程，美方的收益矩阵参见下述表格。
 表格中的数字表示“可用来轰炸的天数”（对美军而言，这个数字越大越好）。
-
-<table border>
-	<tr>
-		<td></td>
-		<td colspan="3">日方</td>
-	</tr>
-	<tr>
-		<td rowspan="3">美方</td>
-		<td></td>
-		<td>北线</td>
-		<td>南线</td>
-	</tr>
-	<tr>
-		<td>北线</td>
-		<td>2</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>南线</td>
-		<td>1</td>
-		<td>3</td>
-	</tr>
-</table>
+<center>
+	<table border>
+		<tr>
+			<td></td>
+			<td colspan="3">日方</td>
+		</tr>
+		<tr>
+			<td rowspan="3">美方</td>
+			<td></td>
+			<td>北线</td>
+			<td>南线</td>
+		</tr>
+		<tr>
+			<td>北线</td>
+			<td>2</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>南线</td>
+			<td>1</td>
+			<td>3</td>
+		</tr>
+	</table>
+</center>
 
 从上述收益矩阵来看，美军应该选哪个策略，不那么明显。但如果【换位思考】，看日军的策略，就非常明显啦。
-
-<table border>
-	<tr>
-		<td></td>
-		<td colspan="3">日方</td>
-	</tr>
-	<tr>
-		<td rowspan="3">美方</td>
-		<td></td>
-		<td>北线</td>
-		<td>南线</td>
-	</tr>
-	<tr>
-		<td>北线</td>
-		<td>2,-2</td>
-		<td>2,-2</td>
-	</tr>
-	<tr>
-		<td>南线</td>
-		<td>1,-1</td>
-		<td>3,-3</td>
-	</tr>
-</table>
+<center>
+	<table border>
+		<tr>
+			<td></td>
+			<td colspan="3">日方</td>
+		</tr>
+		<tr>
+			<td rowspan="3">美方</td>
+			<td></td>
+			<td>北线</td>
+			<td>南线</td>
+		</tr>
+		<tr>
+			<td>北线</td>
+			<td>2,-2</td>
+			<td>2,-2</td>
+		</tr>
+		<tr>
+			<td>南线</td>
+			<td>1,-1</td>
+			<td>3,-3</td>
+		</tr>
+	</table>
+</center>
 
 第2个表格补充了日方的收益（以逗号分隔）。由于日方是遭受轰炸，其收益以“负数”表示。
 
@@ -540,31 +542,32 @@ E 就会投票支持（否则的话，等到由 D 来提方案，E 啥也拿不�
 几乎每一个讲“纳什均衡”的资料（书/文章）都会拿“囚徒困境”来举例。
 
 以下是“囚徒困境”的收益矩阵（被判刑的年数以负数表示，零表示立即释放）：
-
-<table border>
-	<tbody>
-		<tr>
-			<td></td>
-			<td colspan="3">囚犯 B</td>
-		</tr>
-		<tr>
-			<td rowspan="3">囚犯 A</td>
-			<td></td>
-			<td class="background:#C0C0C0">坦白</td>
-			<td class="background:#C0C0C0">抵赖</td>
-		</tr>
-		<tr>
-			<td class="background:#C0C0C0">坦白</td>
-			<td>-2,-2</td>
-			<td>0,-5</td>
-		</tr>
-		<tr>
-			<td class="background:#C0C0C0">抵赖</td>
-			<td>-5,0</td>
-			<td>-1,-1</td>
-		</tr>
-	</tbody>
-</table>
+<center>
+	<table border>
+		<tbody>
+			<tr>
+				<td></td>
+				<td colspan="3">囚犯 B</td>
+			</tr>
+			<tr>
+				<td rowspan="3">囚犯 A</td>
+				<td></td>
+				<td class="background:#C0C0C0">坦白</td>
+				<td class="background:#C0C0C0">抵赖</td>
+			</tr>
+			<tr>
+				<td class="background:#C0C0C0">坦白</td>
+				<td>-2,-2</td>
+				<td>0,-5</td>
+			</tr>
+			<tr>
+				<td class="background:#C0C0C0">抵赖</td>
+				<td>-5,0</td>
+				<td>-1,-1</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 
 基于上述矩阵，“双方都坦白”的局面是“纳什均衡点”（表格中着色的格子）——在这个均衡局面下，任何一个囚犯【单方面】改变策略，只会让自己更不利。
 
