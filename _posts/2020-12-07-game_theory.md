@@ -509,7 +509,13 @@ E 就会投票支持（否则的话，等到由 D 来提方案，E 啥也拿不�
 
 ![约翰·福布斯·纳什](https://imgur.com/Aj9hZIK.jpg)
 
-<center>([约翰·福布斯·纳什](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E5%B8%83%E6%96%AF%C2%B7%E7%BA%B3%E4%BB%80))</center>
+<center>
+(
+	<a href="https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A6%8F%E5%B8%83%E6%96%AF%C2%B7%E7%BA%B3%E4%BB%80">
+	约翰·福布斯·纳什
+</a>
+)
+</center>
 
 ## 概念
 
