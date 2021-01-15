@@ -504,7 +504,6 @@ E 就会投票支持（否则的话，等到由 D 来提方案，E 啥也拿不�
 
 美国数学家纳什在1951年发表了一篇小论文（篇幅很短），名叫
 《非合作博弈》[^1]，
-[^1]: J. Nash, "Non-cooperative games", *The Annals of Mathematics*, vol. 54, no. 2, pp. 286-295, Oct. 1950.
 其中提出了“纳什均衡”的概念并给出了相应的数学证明（该证明基于“不动点定理”）。
 
 ![约翰·福布斯·纳什](https://imgur.com/Aj9hZIK.jpg)
@@ -575,3 +574,4 @@ E 就会投票支持（否则的话，等到由 D 来提方案，E 啥也拿不�
 
 
 
+[^1]: J. Nash, "Non-cooperative games", *The Annals of Mathematics*, vol. 54, no. 2, pp. 286-295, Oct. 1950.
