@@ -14,7 +14,7 @@ math: true
 
 ---
 
-本篇是对《HOW TO DISAGREE》的简单笔记和一些理解，原文来自于`paul graham`的[博客](http://www.paulgraham.com/disagree.html)，豆瓣有[中文翻译](http://www.douban.com/note/291185421/)，其中的图片也源自于此。
+本篇是对《HOW TO DISAGREE》的简单笔记和一些理解，原文来自于`paul graham`的[博客](http://www.paulgraham.com/disagree.html)。
 
 文章主要讨论反驳其他人时的一些形式（误区），
 例如辱骂、贴标签等。
